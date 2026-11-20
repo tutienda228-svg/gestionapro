@@ -1,0 +1,3 @@
+-- Datos semilla (se completan en fases posteriores, cuando existan
+-- cotizaciones/proyectos/facturas de ejemplo). Por ahora, este archivo
+-- queda reservado para no romper el flujo de "supabase db reset".
